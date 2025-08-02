@@ -1,0 +1,15 @@
+{
+  "name": "BPR Kreo Lestari",
+  "short_name": "BPR Kreo",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#87CEEB",
+  "icons": [
+    {
+      "src": "logo1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
